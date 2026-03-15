@@ -52,8 +52,7 @@ The gallery uses Tailwind CSS grid to ensure responsiveness across devices.
 ## Demo Video
 
 A demonstration of the application is available at the following link:
-Google Drive Video
-https://drive.google.com/your-video-link
+Google Drive Video https://drive.google.com/file/d/1I4wd6syzzRvsKphmd_IObozD3LsO5FNw/view?usp=drivesdk
 
 ---
 
